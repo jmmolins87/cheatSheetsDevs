@@ -2,3 +2,7 @@
 
 ##### Angular
 ##### Nest
+
+## Authors
+
+- [@Juanma](https://github.com/jmmolins87?tab=repositories)
