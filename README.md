@@ -1,4 +1,4 @@
-# Aquí tenemos las guías de algunos stacks que utilizo
+# Here we have the guides for some stacks that I use
 
 ##### Angular
 ##### Nest
